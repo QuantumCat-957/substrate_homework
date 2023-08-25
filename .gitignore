@@ -1,0 +1,6 @@
+/target
+.vscode/
+*.tar
+Dockerfile
+Cargo.lock
+/.idea/
