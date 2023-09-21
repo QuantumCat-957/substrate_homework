@@ -1,5 +1,10 @@
 [workspace]
-members = ["lesson_3_homework/generic_bubble_sort"]
+members = [
+    "lesson_3_homework/generic_bubble_sort",
+    "lesson_4_homework/traffic_light",
+    "lesson_4_homework/u32_collection_sum",
+    "lesson_4_homework/calculate_area",
+]
 
 [profile.release]
 lto = true        # Enable full link-time optimization.
